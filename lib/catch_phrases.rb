@@ -18,3 +18,8 @@ def link
   says
 end
 
+def all_phrases(character)
+  declare = "#{mario} #{toadstool} #{link}"
+  puts declare
+  declare
+end
